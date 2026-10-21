@@ -12,6 +12,7 @@ _Data as of 2026-10-19._
 |---|---|---|---|---|---|---|---|---|---|---|
 | [Joplin](https://github.com/laurent22/joplin/tree/dev/packages/app-mobile) | Notes | Bare + Expo modules | 0.86.3 | 57 | ✅ | 56.8k ¹ | Custom ² | [iOS](https://apps.apple.com/app/id1315599797) | [Android](https://play.google.com/store/apps/details?id=net.cozic.joplin) | — |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | Video calls | Bare | 0.85.2 | — | ✅ | 30.1k ¹ | Apache-2.0 | [iOS](https://apps.apple.com/app/id1165103905) | [Android](https://play.google.com/store/apps/details?id=org.jitsi.meet) | [Web](https://meet.jit.si) ³ |
+| [Karakeep](https://github.com/karakeep-app/karakeep/tree/main/apps/mobile) | Bookmarks | Expo (CNG) | 0.86.3 | 57 | ✅ | 29.9k ¹ | AGPL-3.0 | [iOS](https://apps.apple.com/app/id6479258022) | [Android](https://play.google.com/store/apps/details?id=app.hoarder.hoardermobile) | — |
 | [Bluesky](https://github.com/bluesky-social/social-app) | Social | Expo (CNG) | 0.86.3 | 57 | ✅ | 18.3k | MIT | [iOS](https://apps.apple.com/app/id6444370199) | [Android](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app) | [Web](https://bsky.app) |
 | [Standard Notes](https://github.com/standardnotes/app/tree/main/packages/mobile) | Notes | Bare | 0.78.1 | — | ✅ | 6.7k ¹ | AGPL-3.0 | [iOS](https://apps.apple.com/app/id1285392450) | [Android](https://play.google.com/store/apps/details?id=com.standardnotes) | — |
 | [Uniswap Wallet](https://github.com/Uniswap/interface/tree/main/apps/mobile) | Crypto | Bare + Expo modules | 0.85.3 | 56 | ✅ | 5.5k ¹ | GPL-3.0 | [iOS](https://apps.apple.com/app/id6443944476) | [Android](https://play.google.com/store/apps/details?id=com.uniswap.mobile) | — |
@@ -36,6 +37,7 @@ All apps use the Hermes engine.
 |---|---|---|---|---|---|---|---|---|---|
 | Joplin | Metro (native), Webpack (web) | iOS, Android, Web | ❌ | Yarn + Lerna | — | Redux | — | — | ❌ |
 | Jitsi Meet | Metro | iOS, Android | ❌ | npm | React Navigation | Redux | — | — | ❌ |
+| Karakeep | Metro (Expo) | iOS, Android, macOS (iPad app on Mac) | ❌ | pnpm + Turborepo | Expo Router | Zustand, TanStack Query | — | — | ✅ |
 | Bluesky | Metro (Expo) | iOS, Android, Web | ⚠️ Experimental (web only) | pnpm | React Navigation | TanStack Query | — | EAS Update | ✅ |
 | Standard Notes | Metro | iOS, Android | ❌ | Yarn + Lerna | — (WebView shell) | — (WebView shell) | Detox | — | ❌ |
 | Uniswap Wallet | Metro (Expo) | iOS, Android | ❌ | Bun + Nx | React Navigation | Redux Toolkit, Zustand, TanStack Query | Maestro | — | ❌ |
