@@ -31,6 +31,7 @@ _Data as of 2026-11-10._
 | [Rainbow](https://github.com/rainbow-me/rainbow) | Crypto | Bare + Expo modules | 0.81.6 | 3.19.5 | 54 | ❌ | 4.4k | GPL-3.0 | [iOS](https://apps.apple.com/app/id1457119021) | [Android](https://play.google.com/store/apps/details?id=me.rainbow) | — |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio-app) | AI chat | Expo (CNG) | 0.88.1 | 4.7.1 | 58 | ✅ | 4.1k | AGPL-3.0 | [iOS](https://apps.apple.com/app/id6809783714) | [Android](https://play.google.com/store/apps/details?id=com.cherryai.cherrystudio_app) | — |
 | [Artsy (Eigen)](https://github.com/artsy/eigen) | Marketplace | Bare + Expo modules | 0.86.3 | 4.5.1 | 57 | ✅ | 3.8k | MIT | [iOS](https://apps.apple.com/app/id703796080) | [Android](https://play.google.com/store/apps/details?id=net.artsy.app) | — |
+| [Off Grid AI](https://github.com/off-grid-ai/OGAM) | AI (on-device) | Bare | 0.83.1 | ~4.6.0 | — | ✅ | 3.4k | MIT | [iOS](https://apps.apple.com/app/id6759299882) | [Android](https://play.google.com/store/apps/details?id=ai.offgridmobile) | — |
 | [BlueWallet](https://github.com/BlueWallet/BlueWallet) | Crypto | Bare | 0.88.1 | 4.7.1 | — | ✅ | 3.4k | MIT | [iOS](https://apps.apple.com/app/id1376878040) | [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet) | — |
 | [MetaMask](https://github.com/MetaMask/metamask-mobile) | Crypto | Bare + Expo modules | 0.86.3 | 4.5.3 | 57 | ✅ | 3.1k | Custom ² | [iOS](https://apps.apple.com/app/id1438144202) | [Android](https://play.google.com/store/apps/details?id=io.metamask) | — |
 | [Mattermost](https://github.com/mattermost/mattermost-mobile) | Chat | Bare + Expo modules | 0.83.9 | 4.3.1 | 55 | ✅ | 2.7k | Apache-2.0 | [iOS](https://apps.apple.com/app/id1257222717) | [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn) | — |
@@ -38,8 +39,11 @@ _Data as of 2026-11-10._
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.ReactNative) | Chat | Bare + Expo modules | 0.86.3 | 4.6.0 | 57 | ✅ | 2.4k | MIT | [iOS](https://apps.apple.com/app/id1148741252) | [Android](https://play.google.com/store/apps/details?id=chat.rocket.android) | — |
 | [Mindwtr](https://github.com/dongdongbh/Mindwtr/tree/main/apps/mobile) | Productivity (GTD) | Bare + Expo modules | 0.81.5 | ~4.1.1 | 54 | ✅ | 2.4k ¹ | AGPL-3.0 | [iOS](https://apps.apple.com/app/id6758597144) | [Android](https://play.google.com/store/apps/details?id=tech.dongdongbh.mindwtr) | [F-Droid](https://f-droid.org/en/packages/tech.dongdongbh.mindwtr/) |
 | [Happier](https://github.com/happier-dev/happier/tree/dev/apps/ui) | Dev tools (AI agents) | Expo (CNG) | 0.81.5 | 4.3.0 | 54 | ✅ | 2.2k ¹ | MIT | [iOS](https://apps.apple.com/app/id6758554297) | [Android](https://play.google.com/store/apps/details?id=dev.happier.app) | — |
+| [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app) | Customer support | Expo (CNG) | 0.86.0 | ~4.5.5 | 57 | ✅ | 1.1k | MIT | [iOS](https://apps.apple.com/app/id1495796682) | [Android](https://play.google.com/store/apps/details?id=com.chatwoot.app) | — |
+| [IO](https://github.com/pagopa/io-app/tree/master/apps/main-app) | Government services | Bare + Expo modules | 0.83.10 | 4.3.1 | 55 | ✅ | 0.7k ¹ | EUPL-1.2 | [iOS](https://apps.apple.com/app/id1501681835) | [Android](https://play.google.com/store/apps/details?id=it.pagopa.io.app) | — |
 | [Music](https://github.com/MissingCore/Music/tree/dev/mobile) | Music player | Bare + Expo modules | 0.88.1 | 4.7.1 | 58 | ✅ | 0.7k | AGPL-3.0 | — | [Android](https://play.google.com/store/apps/details?id=com.cyanchill.missingcore.music) | — |
 | [Ledger Wallet](https://github.com/LedgerHQ/ledger-live/tree/develop/apps/ledger-live-mobile) | Crypto | Bare + Expo modules | 0.81.6 | 4.3.4 | 54 | ✅ | 0.6k ¹ | MIT | [iOS](https://apps.apple.com/app/id1361671700) | [Android](https://play.google.com/store/apps/details?id=com.ledger.live) | — |
+| [Pixy](https://github.com/mrzmyr/pixy-mood-tracker-app) | Mood tracker | Expo (CNG) | 0.86.3 | 4.5.1 | 57 | ✅ | 155 | MIT | [iOS](https://apps.apple.com/app/id1605327124) | [Android](https://play.google.com/store/apps/details?id=com.devmood.pixymoodtracker) | — |
 | [LifeTime](https://github.com/MoOx/LifeTime) | Productivity | Bare | 0.67.1 | ^2.3.1 | — | ❌ | 38 | BSD-3-Clause | [iOS](https://apps.apple.com/app/id1523009598) | — | — |
 
 All apps use the Hermes engine.
@@ -74,6 +78,7 @@ All apps use the Hermes engine.
 | Rainbow | Metro | iOS, Android | ❌ | Yarn | React Navigation | Redux, Zustand, Recoil, TanStack Query | Maestro | — | ❌ |
 | Cherry Studio | Metro (Expo) | iOS, Android | ❌ | pnpm | Expo Router | TanStack Query, Drizzle (SQLite) | Maestro | EAS Update | ✅ |
 | Artsy (Eigen) | Metro | iOS, Android | ❌ | Yarn | React Navigation | Relay | Maestro | EAS Update | ❌ |
+| Off Grid AI | Metro | iOS, Android | ❌ | npm | React Navigation | Zustand, op-sqlite | Appium | — | ✅ |
 | BlueWallet | Metro | iOS, Android | ❌ | npm | React Navigation | React Context | Detox | — | ❌ |
 | MetaMask | Metro | iOS, Android | ❌ | Yarn | React Navigation | Redux Toolkit, TanStack Query | Detox, Appium | EAS Update | ✅ |
 | Mattermost | Metro | iOS, Android | ❌ | npm | Expo Router | WatermelonDB | Detox | — | ❌ |
@@ -81,19 +86,12 @@ All apps use the Hermes engine.
 | Rocket.Chat | Metro | iOS, Android | ❌ | pnpm | React Navigation | Redux, Zustand, WatermelonDB | Maestro | — | ✅ |
 | Mindwtr | Metro (Expo) | iOS, Android | ❌ | Bun | Expo Router | Zustand | — | — | ❌ |
 | Happier | Metro (Expo) | iOS, Android, Web | ❌ | Yarn | Expo Router | Zustand | Maestro | EAS Update | ❌ |
+| Chatwoot | Metro (Expo) | iOS, Android | ❌ | pnpm | React Navigation | Redux Toolkit | — | — | ❌ |
+| IO | Metro | iOS, Android | ❌ | pnpm + Nx | React Navigation | Redux, redux-saga, XState | — | — | ❌ |
 | Music | Metro | Android | ❌ | pnpm | React Navigation | Zustand, Jotai, TanStack Query, Drizzle (SQLite) | — | — | ✅ |
 | Ledger Wallet | Re.Pack (Rspack) | iOS, Android | ✅ (Rspack prod) | pnpm + Nx | React Navigation | Redux Toolkit, Jotai, TanStack Query | Detox | — | ❌ |
+| Pixy | Metro (Expo) | iOS, Android | ❌ | Bun | Expo Router | React Context | Maestro | — | ✅ |
 | LifeTime | Metro | iOS | ❌ | npm | React Navigation | — | Detox | — | ❌ |
-
-## 3. Less active apps
-
-These apps are in the stores but had no commits in the last 30 days.
-
-| App | Category | RN | Reanimated | ⭐ Stars | License | App Store | Google Play | Last push |
-|---|---|---|---|---|---|---|---|---|
-| [Fintunes](https://github.com/leinelissen/fintunes) | Music (Jellyfin) | ^0.83.1 | ^4.2.1 | 1.4k | MIT | [iOS](https://apps.apple.com/app/id1527732194) | [Android](https://play.google.com/store/apps/details?id=nl.moeilijkedingen.jellyfinaudioplayer) | 2026-07-17 |
-| [Abacus](https://github.com/victorbalssa/abacus) | Finance (Firefly III) | 0.81.4 | ~4.1.1 | 0.9k | GPL-3.0 | [iOS](https://apps.apple.com/app/id1627093491) | [Android](https://play.google.com/store/apps/details?id=abacus.fireflyiii.android.app) | 2026-02-09 |
-| [FX Fotos](https://github.com/functionland/fx-fotos) | Photos | 0.73.2 | ^3.16.1 | 0.7k | MIT | — | [Android](https://play.google.com/store/apps/details?id=land.fx.fotos) | 2024-11-10 |
 
 ## Reference / sample apps
 
